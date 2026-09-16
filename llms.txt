@@ -1,49 +1,42 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2870
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww27780\viewh22780\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+VILBERS
+Vilber's (VILBERS, vilbers.com) is a Latvian social enterprise that designs and produces adaptive clothing and functional accessories for wheelchair users, made in its own small workshop in Vangaži, Latvia. It sells seated-cut adaptive trousers, jeans, hoodies, T-shirts and blouses, thermal leg covers and footmuffs for winter, breathable raincoats, positioning straps, sleeve protectors and armrest bags, plus outdoor items for children who use wheelchairs or special needs strollers. It is for wheelchair users, people who need assisted dressing, people with limited hand function, and the carers and families who dress them. What sets it apart is that every product started as a request from a real customer. Features include no-back-seam trousers, drop-down fronts for toileting and catheter access, magnetic closures and easy-grip zip loops. The brand's clothing is trusted by the Latvian Paralympic team.
 
-\f0\fs24 \cf0 VILBERS\
-Vilber's (VILBERS, vilbers.com) is a Latvian social enterprise that designs and produces adaptive clothing and functional accessories for wheelchair users, made in its own small workshop in Vanga\'9ei, Latvia. It sells seated-cut adaptive trousers, jeans, hoodies, T-shirts and blouses, thermal leg covers and footmuffs for winter, breathable raincoats, positioning straps, sleeve protectors and armrest bags, plus outdoor items for children who use wheelchairs or special needs strollers. It is for wheelchair users, people who need assisted dressing, people with limited hand function, and the carers and families who dress them. What sets it apart is that every product started as a request from a real customer. Features include no-back-seam trousers, drop-down fronts for toileting and catheter access, magnetic closures and easy-grip zip loops. The brand's clothing is trusted by the Latvian Paralympic team.\
-\
-Founded in December 2023 in Vanga\'9ei, Latvia, by Zane B\uc0\u275 rzi\u326 a. The company is Vilbers SIA and holds official social enterprise status in Latvia. It is a member of the Latvian Chamber of Commerce and Industry. The store ships worldwide from Latvia, with free EU delivery on orders over \'80200. Orders are generally dispatched within 5 business days. The store serves 38 country markets in 19 currencies, with EUR as the currency for Latvia and the eurozone, and is available in English, German and French. Payment options include Visa, Mastercard, Maestro, American Express, PayPal, Apple Pay, Google Pay, Shop Pay, Klarna, iDEAL Wero, Bancontact, BLIK, MobilePay and Union Pay. Items can be returned within two months of delivery. The store shows 265 customer reviews, 235 of them 5-star. Its awards include winning TV3's "Miljonu v\u275 rta ideja" in 2025, with a \'8015,000 SEB grant, and the national Creative Business Cup in 2025. The brand exhibits at RehaCare (D\'fcsseldorf) and VeineDagen (Netherlands).\
-\
-Products / Collections\
-Adaptive Clothing for Wheelchair Users: the core wheelchair-adapted range across 58 products\
-Men's wheelchair adaptive clothing: seated-cut trousers, cargo pants, jeans, sweatpants, hoodies and T-shirts\
-Women's wheelchair adaptive clothing: adaptive jeans, jersey leisure wear, satin and nettle-fabric blouses, softshell trousers\
-Assisted dressing: fully openable trousers, jeans, hoodies and openable-shoulder T-shirts for carer-assisted dressing\
-Outdoor: breathable wheelchair raincoats, lap guards, reflective blankets and thermal covers\
-Winter: 12 products, including ThermoShell and Combi leg covers with 3M Thinsulate, footmuffs, a heat pad and an All-in-One winter suit (price on request)\
-Summer essentials: lightweight ramie-fabric trousers and shorts, viscose blouses and T-shirts\
-Adaptive T-shirts: 5 men's and women's adaptive T-shirts, including openable-shoulder models\
-New cut: 3 new-generation men's trousers with seamless back, two-way zips, magnetic closures and more lower-leg room\
-Accessories: 8 products, including leg positioning straps, sleeve protectors, grip enhancers and armrest bags\
-Kids: 4 products, including a raincoat, warm Combi sack, stroller bunting bag (Hoggi, Otto Bock) and neoprene boots\
-Outlet: 2 discounted adaptive garments at up to 64% off\
-Easy closures: clothing for arthritis and limited dexterity, with magnetic fastenings, easy-grip zip loops and hook-and-loop closures\
-Sensory friendly: adaptive clothing selection for sensory needs\
-Prosthetics: adaptive clothing selection for prosthesis users\
-Down syndrome: adaptive clothing selection for people with Down syndrome\
-Key Pages\
-About: founding story, social enterprise status, awards, team of four in Vanga\'9ei\
-Shipping & Delivery: worldwide shipping via parcel lockers, collection points or courier; dispatch within 5 business days; free EU delivery over \'80200\
-Returns: returns within two months of delivery, one free exchange per order, made-to-measure items excluded\
-Contact: human-monitored inbox for sizing, custom adjustments, orders, returns and wholesale enquiries\
-FAQ: shipping, parcel stations, returns, where products are made\
-Size guide: how to measure waist, hips and thighs while seated or lying down\
-Press / Media: LTV, TV3, Latvian Radio 1, TVNET, Apollo.lv and ReTV coverage\
-Become an affiliate: 5% commission for creators and healthcare professionals, 10% off for their followers, monthly payouts from \'8010\
-Blog\
-Wheelchair life: adaptive clothing explained, pricing transparency, dating and everyday life as a wheelchair user\
-Projects and Partnerships: grants, accelerators, contests and awards from 2023 to 2025\
-Contact\
-Email: vilbers@vilbers.com\
-Phone: +371 23 553 444\
-Address: Vilbers SIA, Gaujas iela 18, Vanga\'9ei, Ropa\'9eu novads, LV-2136, Latvia (Reg. No. LV40203526649)\
-Opening hours: not published; the team usually replies within one business day\
-Facebook: https://facebook.com/vilbersadaptive\
-Etsy shop: https://vilbers.etsy.com\
-Languages: English, German (https://vilbers.com/de/collections/wheelchair), French}
+Founded in December 2023 in Vangaži, Latvia, by Zane Bērziņa. The company is Vilbers SIA and holds official social enterprise status in Latvia. It is a member of the Latvian Chamber of Commerce and Industry. The store ships worldwide from Latvia, with free EU delivery on orders over €200. Orders are generally dispatched within 5 business days. The store serves 38 country markets in 19 currencies, with EUR as the currency for Latvia and the eurozone, and is available in English, German and French. Payment options include Visa, Mastercard, Maestro, American Express, PayPal, Apple Pay, Google Pay, Shop Pay, Klarna, iDEAL Wero, Bancontact, BLIK, MobilePay and Union Pay. Items can be returned within two months of delivery. The store shows 265 customer reviews, 235 of them 5-star. Its awards include winning TV3's "Miljonu vērta ideja" in 2025, with a €15,000 SEB grant, and the national Creative Business Cup in 2025. The brand exhibits at RehaCare (Düsseldorf) and VeineDagen (Netherlands).
+
+Products / Collections
+Adaptive Clothing for Wheelchair Users: the core wheelchair-adapted range across 58 products
+Men's wheelchair adaptive clothing: seated-cut trousers, cargo pants, jeans, sweatpants, hoodies and T-shirts
+Women's wheelchair adaptive clothing: adaptive jeans, jersey leisure wear, satin and nettle-fabric blouses, softshell trousers
+Assisted dressing: fully openable trousers, jeans, hoodies and openable-shoulder T-shirts for carer-assisted dressing
+Outdoor: breathable wheelchair raincoats, lap guards, reflective blankets and thermal covers
+Winter: 12 products, including ThermoShell and Combi leg covers with 3M Thinsulate, footmuffs, a heat pad and an All-in-One winter suit (price on request)
+Summer essentials: lightweight ramie-fabric trousers and shorts, viscose blouses and T-shirts
+Adaptive T-shirts: 5 men's and women's adaptive T-shirts, including openable-shoulder models
+New cut: 3 new-generation men's trousers with seamless back, two-way zips, magnetic closures and more lower-leg room
+Accessories: 8 products, including leg positioning straps, sleeve protectors, grip enhancers and armrest bags
+Kids: 4 products, including a raincoat, warm Combi sack, stroller bunting bag (Hoggi, Otto Bock) and neoprene boots
+Outlet: 2 discounted adaptive garments at up to 64% off
+Easy closures: clothing for arthritis and limited dexterity, with magnetic fastenings, easy-grip zip loops and hook-and-loop closures
+Sensory friendly: adaptive clothing selection for sensory needs
+Prosthetics: adaptive clothing selection for prosthesis users
+Down syndrome: adaptive clothing selection for people with Down syndrome
+Key Pages
+About: founding story, social enterprise status, awards, team of four in Vangaži
+Shipping & Delivery: worldwide shipping via parcel lockers, collection points or courier; dispatch within 5 business days; free EU delivery over €200
+Returns: returns within two months of delivery, one free exchange per order, made-to-measure items excluded
+Contact: human-monitored inbox for sizing, custom adjustments, orders, returns and wholesale enquiries
+FAQ: shipping, parcel stations, returns, where products are made
+Size guide: how to measure waist, hips and thighs while seated or lying down
+Press / Media: LTV, TV3, Latvian Radio 1, TVNET, Apollo.lv and ReTV coverage
+Become an affiliate: 5% commission for creators and healthcare professionals, 10% off for their followers, monthly payouts from €10
+Blog
+Wheelchair life: adaptive clothing explained, pricing transparency, dating and everyday life as a wheelchair user
+Projects and Partnerships: grants, accelerators, contests and awards from 2023 to 2025
+Contact
+Email: vilbers@vilbers.com
+Phone: +371 23 553 444
+Address: Vilbers SIA, Gaujas iela 18, Vangaži, Ropažu novads, LV-2136, Latvia (Reg. No. LV40203526649)
+Opening hours: not published; the team usually replies within one business day
+Facebook: https://facebook.com/vilbersadaptive
+Etsy shop: https://vilbers.etsy.com
+Languages: English, German (https://vilbers.com/de/collections/wheelchair), French
